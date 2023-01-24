@@ -9,27 +9,27 @@
   "env": {
     "ALIVE_NAME": {
       "description": "هنا ضع اسم التلجرام الخاص بك",
-      "value": ""
+      "value": "relax"
     },
     "APP_ID": {
       "description": "هنا ضع الايبي ايدي الخاص بك يتكون من ارقام", 
-      "value": ""
+      "value": "17834670"
     },
     "API_HASH": {
       "description": "هنا ضع الايبي هاش الخاص بك يتكون من احرف و ارقام",
-      "value": ""
+      "value": "c9c93d5a33fc4bfcfc381ec39254ef05"
     },
     "STRING_SESSION": {
       "description": " ضع كود تيرمكس",
-      "value": ""
+      "value": "1ApWapzMBu5IAa6_WjkzeqokyhWPV8zrPCEXl_n-8Funid6L7LSmmm8hDfiUuK5QEm6HLLqkx91Gd8edyp0YVE0A9Rug0-iJsuEzKGwCdVMjWH1n2RvQEz5pcKKQE7edKIzCvNa6f5NqvAFgCIoqo2-wET90daN-q1KhfopgmupqTPj-qQroGW71qXV4G353dt42Yy4bcBteDwk0OQdBBqNSDgbx5QhZOvMQhcm_rySLxTK3DBAr1znNHkfU_WtJNvVyqus9PuneyiGFgkDuGPeWTILaoJZy3XGhB0LV0Ctg9bLv4l8YrSfY0ejBUzhzNJFR4Gzi02xaMCRFJ5rYSMmqbF1O23GM="
     },
     "TG_BOT_USERNAME": {
       "description": " ضع معرف بوتك بدون @",
-      "value": ""
+      "value": "jjjve0_bot"
     },
     "TG_BOT_TOKEN": {
       "description": "ضع توكن بوتك",
-      "value": ""
+      "value": "5808633709:AAGTbJD4tSNv9KyZYSYON79759OaQ1ujJCI"
     },
     "COMMAND_HAND_LER": {
       "description": "اتركة كما هوة او ضع الأمر الذي تريده بدلا من النقطة",
